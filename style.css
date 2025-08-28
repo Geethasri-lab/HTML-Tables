@@ -1,0 +1,26 @@
+form {
+  display: inline-block;
+  border: 2px solid black;
+  background-image: url("https://img.freepik.com/free-photo/sheet-paper-pen-with-blue-background_53876-41374.jpg?semt=ais_hybrid&w=740");
+}
+label {
+  width: 180px;
+  height: 35px;
+  display: inline-block;
+}
+input {
+  height: 25px;
+}
+div {
+  margin: 20px;
+}
+legend {
+  font-size: 1.5rem;
+  text-align: center;
+}
+button {
+  width: 100px;
+  height: 50px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
